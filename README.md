@@ -1,5 +1,6 @@
 # Awesome OSINT
 
+
 A [TraceLabs](https://tracelabs.org) endorsed list of awesome OSINT frameworks, libraries and software. 
 
 Note that there are great OSINT tools out there, but this list consists of tools that apply specifically to missing-persons searches.
@@ -110,6 +111,7 @@ Please take a quick gander at the [contributing guidelines](https://github.com/t
 
 - [Shodan](https://www.shodan.io/) – Search engine for internet-connected devices.  
 - [Censys](https://censys.com/) – Internet-wide scanning and intelligence platform.  
+- [cl0q](https://cl0q.com) – Open search engine for domain research & OSINT — 44.1M domains indexed, free API tier.  
 
 ---
 

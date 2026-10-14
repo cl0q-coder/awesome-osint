@@ -1,6 +1,5 @@
 # Awesome OSINT
 
-
 A [TraceLabs](https://tracelabs.org) endorsed list of awesome OSINT frameworks, libraries and software. 
 
 Note that there are great OSINT tools out there, but this list consists of tools that apply specifically to missing-persons searches.
